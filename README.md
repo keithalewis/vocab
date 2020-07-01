@@ -16,12 +16,14 @@ and rationality but will always remain a poor shadow.
 
 ## Fundamentals
 
-The atoms of finance are [_items_](item.md),
+The atoms of finance are [_entries_](entry.md),
 an amount of an instrument held
 at a time by a legal entity.
 
-A pair of items is a [Transactions](transaction.md).
-A [buyer](buyer.md) and [seller](seller.md) exchange items.
+A pair of entries is a [Transactions](transaction.md).
+that is exchanged by a [buyer](buyer.md) and [seller](seller.md).
+The buyer decides what to exchange with what the seller offers.
+
 The ratio
 of the buyer amount and the seller amount is the [price](price.md).
 
