@@ -16,21 +16,20 @@ and rationality but will always remain a poor shadow.
 
 ## Fundamentals
 
-The atoms of finance are _items_,
-a tuple $(t,a,i,l)$ consisting of a timestamp,
-amount, instrument, and legal entity.
+The atoms of finance are [_items_](item.md),
+an amount of an instrument held
+at a time by a legal entity.
 
-[Transactions](transaction.md) are the atoms of finance. A
-[buyer](buyer.md) and [seller](seller.md) exchange [amounts](amount.md)
-of [instruments](instrument.md) at a given date and time. The ratio
+A pair of items is a [Transactions](transaction.md).
+A [buyer](buyer.md) and [seller](seller.md) exchange items.
+The ratio
 of the buyer amount and the seller amount is the [price](price.md).
-Instruments have [cash flows](cash_flow.md) that accrue to the owner
-proportional to their number of [shares](share.md)
-<!--
-[stocks](stock.md) have
-dividends, [bonds](bond.md) have coupons, [futures](futures.md) have
-margin adjustments.
--->
+
+[_Instruments_](instrument.md) have [cash flows](cash_flow.md) that
+accrue to the owner proportional to their number of [shares](share.md)
+
+<!-- [stocks](stock.md) have dividends, [bonds](bond.md) have coupons,
+[futures](futures.md) have margin adjustments.  -->
 
 A [model](model.md) specifies the
 future prices and cash flows associated with instruments.
