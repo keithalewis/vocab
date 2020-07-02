@@ -17,17 +17,18 @@ and rationality but will always remain a poor shadow.
 ## Fundamentals
 
 The atoms of finance are [_entries_](entry.md),
-an amount of an instrument held
-at a time by a legal entity.
+an [amount](amount.md) of an [instrument](instrument.md) held
+at a time by a [legal entity](legal_endity.md).
 
-A pair of entries is a [Transactions](transaction.md).
-that is exchanged by a [buyer](buyer.md) and [seller](seller.md).
-The buyer decides what to exchange with what the seller offers.
+A pair of entries exchanged by a [buyer](buyer.md) and [seller](seller.md)
+is a [transaction](transaction.md).
 
-The ratio
-of the buyer amount and the seller amount is the [price](price.md).
+The buyer decides what to exchange based on what the seller offers.
 
-[_Instruments_](instrument.md) have [cash flows](cash_flow.md) that
+The ratio of the buyer amount and the seller amount is the
+[price](price.md).
+
+[Instruments](instrument.md) have [cash flows](cash_flow.md) that
 accrue to the owner proportional to their number of [shares](share.md)
 
 <!-- [stocks](stock.md) have dividends, [bonds](bond.md) have coupons,
