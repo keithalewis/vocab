@@ -1,15 +1,5 @@
 # Vocabulary 
 
-[Fischer Black](https://en.wikipedia.org/wiki/Fischer_Black)
-emphasized the importance of vocabulary.
-It is, after all, how human beings communicate.
-
-Each entry provides a definition in plain English and assigns mathematical
-terms for the concepts involved in the definition. These are immediately
-followed by a brief exegesis of the limitations involved in using
-mathematics to model the real world. Additional notes are sometimes
-provided.
-
 The real world is big, complicated, and messy.
 [Mathematics](mathematics.md) can be used to bring some order
 and rationality but will always remain a poor shadow.
