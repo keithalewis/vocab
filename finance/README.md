@@ -1,30 +1,31 @@
-# Vocabulary 
+# Finance
 
-The real world is big, complicated, and messy.
-[Mathematics](mathematics.md) can be used to bring some order
-and rationality but will always remain a poor shadow.
+The financial world is big, complicated, and messy.
+[Mathematics](../mathematics.md) can be used to bring some order
+and rationality to a small subset of that.
+[Software](../software.md) is a means of turning mathematics into results
+people paying checks might find useful in running their business.
 
 ## Fundamentals
 
-The atoms of finance are [_entries_](entry.md),
-an [amount](amount.md) of an [instrument](instrument.md) held
-at a time by a [legal entity](legal_endity.md).
+The atoms of finance are _entries_,
+an [_amount_](amount.md) of an [_instrument_](instrument.md) held
+by a [_legal entity_](legal_entity.md).
 
-A pair of entries exchanged by a [buyer](buyer.md) and [seller](seller.md)
-is a [transaction](transaction.md).
+A _transaction_ is a pair of entries _exchanged_ by a [_buyer_](buyer.md) and [_seller_](seller.md)
+at a given [_time_](time.md). The legal entities of the entries are swapped in the transaction.
 
-The buyer decides what to exchange based on what the seller offers.
-
+The buyer decides when and what to exchange based on what the seller offers.
 The ratio of the buyer amount and the seller amount is the
-[price](price.md).
+[_price_](price.md).
 
-[Instruments](instrument.md) have [cash flows](cash_flow.md) that
-accrue to the owner proportional to their number of [shares](share.md)
+Instruments have [cash flows](cash_flow.md) that
+accrue proportional to the amount the owner holds.
 
 <!-- [stocks](stock.md) have dividends, [bonds](bond.md) have coupons,
 [futures](futures.md) have margin adjustments.  -->
 
-A [model](model.md) specifies the
+A [_model_](model.md) specifies the
 future prices and cash flows associated with instruments.
 
 <!-- (who, what, when, where, why) -->
@@ -34,8 +35,8 @@ future prices and cash flows associated with instruments.
 Parties in financial markets trade [instruments](instrument.md).
 An instrument is either a [security](security.md) or [derivative](derivative.md).
 
-[Exchanges](exchange.md) arrange for [liquidity
-providers](liquidity_provider.md) to offer instruments to any customer
+[_Exchanges_](exchange.md) arrange for [_liquidity
+providers_](liquidity_provider.md) to offer instruments to any customer
 able to set up a margin account.  They provide a nearly instantaneous
 mechanism for buyers and sellers to make transactions.
 
