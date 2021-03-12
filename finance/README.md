@@ -8,12 +8,12 @@ people paying checks might find useful in running their business.
 
 ## Fundamentals
 
-The atoms of finance are _entries_,
+The atoms of finance are _holdings_,
 an [_amount_](amount.md) of an [_instrument_](instrument.md) held
 by a [_legal entity_](legal_entity.md).
 
-A _transaction_ is a pair of entries _exchanged_ by a [_buyer_](buyer.md) and [_seller_](seller.md)
-at a given [_time_](time.md). The legal entities of the entries are swapped in the transaction.
+A _trade_ is a pair of holdings _exchanged_ by a [_buyer_](buyer.md) and [_seller_](seller.md)
+at a given [_time_](time.md). The legal entities of the holdings are swapped.
 
 The buyer decides when and what to exchange based on what the seller offers.
 The ratio of the buyer amount and the seller amount is the
