@@ -1,3 +1,3 @@
 # Buyer
 
-The _buyer_ decides the instrument and amount to be exchanged with a seller.
+The _buyer_ decides the amount and instrument traded with a [seller](seller.md).
